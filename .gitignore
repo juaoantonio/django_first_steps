@@ -154,3 +154,4 @@ cython_debug/
 
 # ASDF
 .tool-versions
+core/__pycache__/settings.cpython-310.pyc
